@@ -1,0 +1,10 @@
+https://developer.hailo.ai/developer-zone/sw-downloads/?dl_dev=true&file=b3ea8e4804a8e45e8254e9e1a3b7de78
+
+curl -H "Content-Type: application/whl" "https://developer.hailo.ai/developer-zone/sw-downloads/?dl_dev=true&file=b3ea8e4804a8e45e8254e9e1a3b7de78" -o "hailo.whl"
+
+https://drive.google.com/file/d/1K0rNBWStge5HppZdcg-tG7ZGwPd9jVZ1/view?usp=sharing
+
+gdown --id 1XuNsOEYvYDkB4ZH6T_olrZPMVKNyfIwn
+
+https://drive.google.com/file/d/1XuNsOEYvYDkB4ZH6T_olrZPMVKNyfIwn/view?usp=sharing
+  

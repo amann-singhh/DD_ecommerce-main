@@ -1,0 +1,230 @@
+.root {
+    margin-top: 16px;
+}
+
+.content {
+    display: flex;
+}
+
+.gallery {
+    flex-grow: 1;
+    margin-right: 32px;
+
+    position: sticky;
+    top: 190px; 
+    align-self: start;
+}
+
+.details {
+    max-width: 100px;
+}
+
+.details h1 {
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 38px;
+    margin-bottom: 16px;
+    color: azure;
+}
+
+.priceContainer {
+    margin: 32px 0px;
+}
+
+.priceContainer span {
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+    color: azure;
+}
+
+.vendor {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: azure;
+}
+
+.sizeContainer {
+    margin-top: 56px;
+    color: azure;
+}
+
+.quantityContainer {
+    margin-top: 40px;
+    color: azure;
+}
+
+.quantityContainer span{
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    color: azure;
+}
+
+.quantityContainer > div {
+    margin-top: 8px;
+}
+
+.actionContainer {
+    margin-top: 32px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.addToButtonContainer {
+    flex-grow: 1;
+}
+
+.wishlistActionContainer {
+    flex-basis: 52px;
+    flex-grow: 0;
+    flex-shrink: 0;
+
+    color: var(--standard-gold);
+    border: 1px solid var(--bg-light-gray);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 16px;
+
+    cursor: pointer;
+    position: relative;
+}
+
+.heartFillContainer {
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    transition: all ease-in-out 0.3s;
+}
+
+.heartFillContainer svg {
+    width: 18px;
+    height: 18px;
+}
+
+.description {
+    margin-top: 40px;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    color: azure;
+}
+
+.description p {
+    margin-bottom: 24px;
+    color: azure;
+}
+
+.accordionTitle {
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    color: azure;
+}
+
+.informationContainer {
+    margin-top: 32px;
+    color: azure;
+}
+
+.informationContainer > div:first-child {
+    border-top: 1px solid var(--bg-light-gray);
+}
+
+.informationContainer > div {
+    padding: 24px 0px;
+    border-bottom: 1px solid var(--bg-light-gray);
+}
+
+.information {
+    font-size: 12px;
+    line-height: 18px;
+}
+
+.suggestionContainer {
+    margin-top: 80px;
+}
+
+.suggestionContainer h2 {
+    text-align: center;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 38px;
+    margin-bottom: 48px;
+    color: azure;
+}
+
+/* offset layout padding */
+.attributeContainer {
+    margin-top: 96px;
+    margin-bottom: -150px;
+}
+
+.show {
+    visibility: visible;
+    opacity: 1;
+}
+
+.hide {
+    visibility: hidden;
+    opacity: 0;
+}
+.popupOverlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5); /* semi-transparent black background */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000; /* ensure it's above other elements */
+  }
+  
+  .popupContent {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    width: 400px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+  }
+
+@media (max-width: 1000px) {
+    .details {
+        max-width: 350px;
+    }
+
+    .gallery {
+        margin-right: 16px;
+    }
+}
+
+@media (max-width: 768px) {
+    
+    .content {
+        display: block;
+    }
+
+    .details {
+        max-width: unset;
+    }
+
+    .gallery {    
+        position: static;
+        margin-right: 0px;
+    }
+
+    .suggestionContainer h2 {
+        font-size: 22px;
+        line-height: 26px;
+    }
+
+    .wishlistActionContainer {
+        margin-left: 8px;
+    }
+}

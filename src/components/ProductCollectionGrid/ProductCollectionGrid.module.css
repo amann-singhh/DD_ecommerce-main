@@ -1,0 +1,20 @@
+.root {
+    width: 100%;
+    margin: 0 auto;
+  
+    display: flex;
+    justify-content: space-between; /* Adjust this property to control the spacing */
+    background-color: black;
+  }
+  
+  .ProductCollection {
+    /* Optional: Add styles for each ProductCollection item if needed */
+  }
+  
+  @media (max-width: 800px) {
+    .root {
+      flex-direction: column; /* For smaller screens, display items in a column */
+      align-items: center; /* Optional: Center items in the column */
+    }
+  }
+  

@@ -1,0 +1,660 @@
+
+<!DOCTYPE html>
+<html class="html" lang="en-US">
+<head>
+<meta charset="UTF-8">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<style type="text/css">
+					.heateor_sss_button_instagram span.heateor_sss_svg,a.heateor_sss_instagram span.heateor_sss_svg{background:radial-gradient(circle at 30% 107%,#fdf497 0,#fdf497 5%,#fd5949 45%,#d6249f 60%,#285aeb 90%)}
+						div.heateor_sss_horizontal_sharing a.heateor_sss_button_instagram span{background:#fff!important;}div.heateor_sss_standard_follow_icons_container a.heateor_sss_button_instagram span{background:#fff;}
+										.heateor_sss_horizontal_sharing .heateor_sss_svg,.heateor_sss_standard_follow_icons_container .heateor_sss_svg{
+							background-color: #fff!important;
+				background: #fff!important;
+							color: #4D69FF;
+						border-width: 0px;
+			border-style: solid;
+			border-color: transparent;
+		}
+					div.heateor_sss_horizontal_sharing span.heateor_sss_svg svg:hover path:not(.heateor_sss_no_fill),div.heateor_sss_horizontal_sharing span.heateor_sss_svg svg:hover ellipse, div.heateor_sss_horizontal_sharing span.heateor_sss_svg svg:hover circle, div.heateor_sss_horizontal_sharing span.heateor_sss_svg svg:hover polygon, div.heateor_sss_horizontal_sharing span.heateor_sss_svg svg:hover rect:not(.heateor_sss_no_fill){
+		        fill: #009CC3;
+		    }
+		    div.heateor_sss_horizontal_sharing span.heateor_sss_svg svg:hover path.heateor_sss_svg_stroke, div.heateor_sss_horizontal_sharing span.heateor_sss_svg svg:hover rect.heateor_sss_svg_stroke{
+		    	stroke: #009CC3;
+		    }
+				.heateor_sss_horizontal_sharing span.heateor_sss_svg:hover,.heateor_sss_standard_follow_icons_container span.heateor_sss_svg:hover{
+							color: #009CC3;
+						border-color: transparent;
+		}
+		.heateor_sss_vertical_sharing span.heateor_sss_svg,.heateor_sss_floating_follow_icons_container span.heateor_sss_svg{
+							color: #fff;
+						border-width: 0px;
+			border-style: solid;
+			border-color: transparent;
+		}
+						.heateor_sss_vertical_sharing span.heateor_sss_svg:hover,.heateor_sss_floating_follow_icons_container span.heateor_sss_svg:hover{
+						border-color: transparent;
+		}
+		@media screen and (max-width:783px) {.heateor_sss_vertical_sharing{display:none!important}}		</style>
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+<link rel="alternate" hreflang="en" href="https://developer.hailo.ai/developer-zone/sw-downloads/" />
+<link rel="alternate" hreflang="de" href="https://developer.hailo.ai/de/developer-zone/sw-downloads/" />
+<link rel="alternate" hreflang="ja" href="https://developer.hailo.ai/ja/developer-zone/sw-downloads/" />
+<link rel="alternate" hreflang="zh-hans" href="https://developer.hailo.ai/zh-hans/developer-zone/sw-downloads/" />
+<link rel="alternate" hreflang="x-default" href="https://developer.hailo.ai/developer-zone/sw-downloads/" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Software Downloads | by Hailo the leading AI Processor company</title>
+<meta name="description" content="Welcome to the Hailo Software Downloads site section, including: Dataflow compiler, HailoRT, Tappas and Benchmarks." />
+<link rel="canonical" href="https://developer.hailo.ai/developer-zone/sw-downloads/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Software Downloads | by Hailo the leading AI Processor company" />
+<meta property="og:description" content="Welcome to the Hailo Software Downloads site section, including: Dataflow compiler, HailoRT, Tappas and Benchmarks." />
+<meta property="og:url" content="https://developer.hailo.ai/developer-zone/sw-downloads/" />
+<meta property="og:site_name" content="Hailo AI Processor for Edge Devices" />
+<meta property="article:publisher" content="https://www.facebook.com/HailoTech/" />
+<meta property="article:modified_time" content="2023-07-18T14:46:43+00:00" />
+<meta property="og:image" content="https://developer.hailo.ai/wp-content/uploads/2020/06/favicon.png" />
+<meta property="og:image:width" content="60" />
+<meta property="og:image:height" content="60" />
+<meta property="og:image:type" content="image/png" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@Hailo_ai" />
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://developer.hailo.ai/developer-zone/sw-downloads/","url":"https://developer.hailo.ai/developer-zone/sw-downloads/","name":"Software Downloads | by Hailo the leading AI Processor company","isPartOf":{"@id":"https://developer.hailo.ai/#website"},"datePublished":"2021-06-09T07:46:39+00:00","dateModified":"2023-07-18T14:46:43+00:00","description":"Welcome to the Hailo Software Downloads site section, including: Dataflow compiler, HailoRT, Tappas and Benchmarks.","breadcrumb":{"@id":"https://developer.hailo.ai/developer-zone/sw-downloads/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://developer.hailo.ai/developer-zone/sw-downloads/"]}]},{"@type":"BreadcrumbList","@id":"https://developer.hailo.ai/developer-zone/sw-downloads/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://developer.hailo.ai/"},{"@type":"ListItem","position":2,"name":"Developer Zone","item":"https://developer.hailo.ai/developer-zone/"},{"@type":"ListItem","position":3,"name":"SW Downloads"}]},{"@type":"WebSite","@id":"https://developer.hailo.ai/#website","url":"https://developer.hailo.ai/","name":"Hailo AI Processor for Edge Devices","description":"Hailo AI Processor for Edge Devices","publisher":{"@id":"https://developer.hailo.ai/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://developer.hailo.ai/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://developer.hailo.ai/#organization","name":"Hailo","url":"https://developer.hailo.ai/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://developer.hailo.ai/#/schema/logo/image/","url":"","contentUrl":"","caption":"Hailo"},"image":{"@id":"https://developer.hailo.ai/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/HailoTech/","https://twitter.com/Hailo_ai","https://www.linkedin.com/company/hailo-ai/","https://www.youtube.com/channel/UCJyQfXEbUVHhiXM_Lc9e2aw"]}]}</script>
+
+<link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
+<link rel="dns-prefetch" href="//cdnjs.cloudflare.com" />
+<link rel="alternate" type="application/rss+xml" title="Hailo AI Processor for Edge Devices &raquo; Feed" href="https://developer.hailo.ai/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Hailo AI Processor for Edge Devices &raquo; Comments Feed" href="https://developer.hailo.ai/comments/feed/" />
+<link id="omgf-preload-0" rel="preload" href="//developer.hailo.ai/wp-content/uploads/omgf/oceanwp-google-font-montserrat-mod-bldck/montserrat-normal-latin-400.woff2" as="font" type="font/woff2" crossorigin />
+<link id="omgf-preload-1" rel="preload" href="//developer.hailo.ai/wp-content/uploads/omgf/oceanwp-google-font-montserrat-mod-bldck/montserrat-normal-latin-500.woff2" as="font" type="font/woff2" crossorigin />
+<link id="omgf-preload-2" rel="preload" href="//developer.hailo.ai/wp-content/uploads/omgf/oceanwp-google-font-exo-mod-ytgy0/exo-normal-latin-400.woff2" as="font" type="font/woff2" crossorigin />
+<link id="omgf-preload-3" rel="preload" href="//developer.hailo.ai/wp-content/uploads/omgf/oceanwp-google-font-exo-mod-ytgy0/exo-normal-latin-500.woff2" as="font" type="font/woff2" crossorigin />
+<link id="omgf-preload-4" rel="preload" href="//developer.hailo.ai/wp-content/uploads/omgf/oceanwp-google-font-exo-mod-ytgy0/exo-normal-latin-600.woff2" as="font" type="font/woff2" crossorigin />
+<link rel="stylesheet" id="toolset_bootstrap_4-css" href="https://developer.hailo.ai/wp-content/plugins/cred-frontend-editor/vendor/toolset/toolset-common/res/lib/bootstrap4/css/bootstrap.min.css" media="screen" />
+<link rel="stylesheet" id="wp-block-library-css" href="https://developer.hailo.ai/wp-includes/css/dist/block-library/style.min.css" media="all" />
+<style id="wp-block-library-theme-inline-css">
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<style id="tropicalista-pdfembed-style-inline-css">
+.wp-block-tropicalista-pdfembed{min-height:500px}@media(min-width:320px)and (max-width:480px){.wp-block-tropicalista-pdfembed{max-height:80vh}}
+
+</style>
+<link rel="stylesheet" id="mediaelement-css" href="https://developer.hailo.ai/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css" media="all" />
+<link rel="stylesheet" id="wp-mediaelement-css" href="https://developer.hailo.ai/wp-includes/js/mediaelement/wp-mediaelement.min.css" media="all" />
+<link rel="stylesheet" id="view_editor_gutenberg_frontend_assets-css" href="https://developer.hailo.ai/wp-content/plugins/toolset-blocks/public/css/views-frontend.css" media="all" />
+<style id="view_editor_gutenberg_frontend_assets-inline-css">
+.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default > span.wpv-sort-list,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default .wpv-sort-list-item {border-color: #cdcdcd;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default .wpv-sort-list-item a {color: #444;background-color: #fff;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default a:hover,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default a:focus {color: #000;background-color: #eee;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default .wpv-sort-list-item.wpv-sort-list-current a {color: #000;background-color: #eee;}
+.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default > span.wpv-sort-list,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default .wpv-sort-list-item {border-color: #cdcdcd;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default .wpv-sort-list-item a {color: #444;background-color: #fff;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default a:hover,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default a:focus {color: #000;background-color: #eee;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default .wpv-sort-list-item.wpv-sort-list-current a {color: #000;background-color: #eee;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey > span.wpv-sort-list,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey .wpv-sort-list-item {border-color: #cdcdcd;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey .wpv-sort-list-item a {color: #444;background-color: #eeeeee;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey a:hover,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey a:focus {color: #000;background-color: #e5e5e5;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey .wpv-sort-list-item.wpv-sort-list-current a {color: #000;background-color: #e5e5e5;}
+.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default > span.wpv-sort-list,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default .wpv-sort-list-item {border-color: #cdcdcd;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default .wpv-sort-list-item a {color: #444;background-color: #fff;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default a:hover,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default a:focus {color: #000;background-color: #eee;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default .wpv-sort-list-item.wpv-sort-list-current a {color: #000;background-color: #eee;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey > span.wpv-sort-list,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey .wpv-sort-list-item {border-color: #cdcdcd;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey .wpv-sort-list-item a {color: #444;background-color: #eeeeee;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey a:hover,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey a:focus {color: #000;background-color: #e5e5e5;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey .wpv-sort-list-item.wpv-sort-list-current a {color: #000;background-color: #e5e5e5;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue > span.wpv-sort-list,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue .wpv-sort-list-item {border-color: #0099cc;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue .wpv-sort-list-item a {color: #444;background-color: #cbddeb;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue a:hover,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue a:focus {color: #000;background-color: #95bedd;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue .wpv-sort-list-item.wpv-sort-list-current a {color: #000;background-color: #95bedd;}
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="wpml-blocks-css" href="https://developer.hailo.ai/wp-content/plugins/sitepress-multilingual-cms/dist/css/blocks/styles.css" media="all" />
+<link rel="stylesheet" id="wpos-slick-style-css" href="https://developer.hailo.ai/wp-content/plugins/wp-slick-slider-and-image-carousel/assets/css/slick.css" media="all" />
+<link rel="stylesheet" id="wpsisac-public-style-css" href="https://developer.hailo.ai/wp-content/plugins/wp-slick-slider-and-image-carousel/assets/css/wpsisac-public.css" media="all" />
+<link rel="stylesheet" id="wpml-menu-item-0-css" href="https://developer.hailo.ai/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/menu-item/style.min.css" media="all" />
+<link rel="stylesheet" id="font-awesome-css" href="https://developer.hailo.ai/wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min.css" media="all" />
+<link rel="stylesheet" id="simple-line-icons-css" href="https://developer.hailo.ai/wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min.css" media="all" />
+<link rel="stylesheet" id="oceanwp-style-css" href="https://developer.hailo.ai/wp-content/themes/oceanwp/assets/css/style.min.css" media="all" />
+<link rel="stylesheet" id="oceanwp-google-font-montserrat-css" href="//developer.hailo.ai/wp-content/uploads/omgf/oceanwp-google-font-montserrat-mod-bldck/oceanwp-google-font-montserrat-mod-bldck.css?ver=1669998569" media="all" />
+<link rel="stylesheet" id="oceanwp-google-font-exo-css" href="//developer.hailo.ai/wp-content/uploads/omgf/oceanwp-google-font-exo-mod-ytgy0/oceanwp-google-font-exo-mod-ytgy0.css?ver=1669998569" media="all" />
+<link rel="stylesheet" id="dashicons-css" href="https://developer.hailo.ai/wp-includes/css/dashicons.min.css" media="all" />
+<link rel="stylesheet" id="toolset-select2-css-css" href="https://developer.hailo.ai/wp-content/plugins/cred-frontend-editor/vendor/toolset/toolset-common/res/lib/select2/select2.css" media="screen" />
+<link rel="stylesheet" id="tablepress-default-css" href="https://developer.hailo.ai/wp-content/plugins/tablepress/css/build/default.css" media="all" />
+<link rel="stylesheet" id="heateor_sss_frontend_css-css" href="https://developer.hailo.ai/wp-content/plugins/sassy-social-share/public/css/sassy-social-share-public.css" media="all" />
+<link rel="stylesheet" id="oceanwp-overrides-css-css" href="https://developer.hailo.ai/wp-content/plugins/toolset-blocks/vendor/toolset/toolset-theme-settings/res/css/themes/oceanwp-overrides.css" media="screen" />
+<link rel="stylesheet" id="responsive-menu-pro-css" href="https://developer.hailo.ai/wp-content/uploads/responsive-menu-pro/css/responsive-menu-pro-1.css" media="all" />
+<link rel="stylesheet" id="parent-style-css" href="https://developer.hailo.ai/wp-content/themes/oceanwp/style.css" media="all" />
+<link rel="stylesheet" id="ocean-css-css" href="https://developer.hailo.ai/wp-content/themes/hailo/assets/style.min.css" media="all" />
+<link rel="stylesheet" id="highlight-css" href="https://developer.hailo.ai/wp-content/themes/hailo/assets/default.css" media="all" />
+<link rel="stylesheet" id="slick-css-css" href="https://developer.hailo.ai/wp-content/themes/oceanwp/assets/css/third/slick.css" media="all" />
+<link rel="stylesheet" id="intro-css-css" href="https://developer.hailo.ai/wp-content/themes/hailo/assets/intro.css" media="all" />
+<link rel="stylesheet" id="jquery-slider-css-css" href="https://developer.hailo.ai/wp-content/themes/hailo/assets/jquery-ui.css" media="all" />
+<link rel="stylesheet" id="select2-css-css" href="https://developer.hailo.ai/wp-content/themes/hailo/assets/select2.min.css" media="all" />
+<link rel="stylesheet" id="dev-new-css-css" href="https://developer.hailo.ai/wp-content/themes/hailo/assets/dev-new.css?ver=1.29" media="all" />
+<link rel="stylesheet" id="hailo-style-css" href="https://developer.hailo.ai/wp-content/themes/hailo/style.css?ver=3.72" media="all" />
+<link rel="stylesheet" id="hailo-style-responsive-css" href="https://developer.hailo.ai/wp-content/themes/hailo/assets/responsive.css?ver=1.01" media="all" />
+<link rel="stylesheet" id="devzone-css" href="https://developer.hailo.ai/wp-content/themes/hailo/assets/devzone.css?ver=1.06" media="all" />
+<link rel="stylesheet" id="oe-widgets-style-css" href="https://developer.hailo.ai/wp-content/plugins/ocean-extra/assets/css/widgets.css" media="all" />
+<script src="https://developer.hailo.ai/wp-content/plugins/cred-frontend-editor/vendor/toolset/common-es/public/toolset-common-es-frontend.js" id="toolset-common-es-frontend-js"></script>
+<script src="https://developer.hailo.ai/wp-includes/js/jquery/jquery.min.js" id="jquery-core-js"></script>
+<script src="https://developer.hailo.ai/wp-includes/js/jquery/jquery-migrate.min.js" id="jquery-migrate-js"></script>
+<script src="https://developer.hailo.ai/wp-content/themes/oceanwp/assets/js/vendors/smoothscroll.min.js" id="ow-smoothscroll-js"></script>
+<script src="https://developer.hailo.ai/wp-content/plugins/responsive-menu-pro/public/js/noscroll.js" id="responsive-menu-pro-noscroll-js"></script>
+<script src="https://developer.hailo.ai/wp-content/uploads/responsive-menu-pro/js/responsive-menu-pro-1.js" id="responsive-menu-pro-js"></script>
+<script src="https://developer.hailo.ai/wp-content/themes/hailo/assets/devs/slick.js" id="slick-js"></script>
+<script src="https://developer.hailo.ai/wp-content/themes/hailo/assets/isotope.pkgd.min.js" id="isotope-js"></script>
+<script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js" id="particles-js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.2/highlight.min.js" id="hightlight-js-js"></script>
+<link rel="https://api.w.org/" href="https://developer.hailo.ai/wp-json/" /><link rel="alternate" type="application/json" href="https://developer.hailo.ai/wp-json/wp/v2/pages/6635" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://developer.hailo.ai/xmlrpc.php?rsd" />
+<link rel="shortlink" href="https://developer.hailo.ai/?p=6635" />
+<link rel="alternate" type="application/json+oembed" href="https://developer.hailo.ai/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdeveloper.hailo.ai%2Fdeveloper-zone%2Fsw-downloads%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://developer.hailo.ai/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdeveloper.hailo.ai%2Fdeveloper-zone%2Fsw-downloads%2F&#038;format=xml" />
+<meta name="generator" content="WPML ver:4.6.5 stt:59,1,3,28;" />
+<script> window.addEventListener("load",function(){ var c={script:false,link:false}; function ls(s) { if(!['script','link'].includes(s)||c[s]){return;}c[s]=true; var d=document,f=d.getElementsByTagName(s)[0],j=d.createElement(s); if(s==='script'){j.async=true;j.src='https://developer.hailo.ai/wp-content/plugins/toolset-blocks/vendor/toolset/blocks/public/js/frontend.js?v=1.6.6';}else{ j.rel='stylesheet';j.href='https://developer.hailo.ai/wp-content/plugins/toolset-blocks/vendor/toolset/blocks/public/css/style.css?v=1.6.6';} f.parentNode.insertBefore(j, f); }; function ex(){ls('script');ls('link')} window.addEventListener("scroll", ex, {once: true}); if (('IntersectionObserver' in window) && ('IntersectionObserverEntry' in window) && ('intersectionRatio' in window.IntersectionObserverEntry.prototype)) { var i = 0, fb = document.querySelectorAll("[class^='tb-']"), o = new IntersectionObserver(es => { es.forEach(e => { o.unobserve(e.target); if (e.intersectionRatio > 0) { ex();o.disconnect();}else{ i++;if(fb.length>i){o.observe(fb[i])}} }) }); if (fb.length) { o.observe(fb[i]) } } }) </script>
+<noscript>
+		<link rel="stylesheet" href="https://developer.hailo.ai/wp-content/plugins/toolset-blocks/vendor/toolset/blocks/public/css/style.css">
+	</noscript><link rel="icon" href="https://developer.hailo.ai/wp-content/uploads/2020/06/favicon.png" sizes="32x32" />
+<link rel="icon" href="https://developer.hailo.ai/wp-content/uploads/2020/06/favicon.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://developer.hailo.ai/wp-content/uploads/2020/06/favicon.png" />
+<meta name="msapplication-TileImage" content="https://developer.hailo.ai/wp-content/uploads/2020/06/favicon.png" />
+<style id="wp-custom-css">
+			/* lazy rendering */footer{content-visibility:auto;contain-intrinsic-height:1164px}.upper-footer,#footer-upper-bg{content-visibility:auto;contain-intrinsic-height:216px}.wp-block-group.has-background.hailo_video_popup{content-visibility:auto;contain-intrinsic-height:240px}/* FA brands */.fa,.fab,.fad,.fal,.far,.fas{-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;display:inline-block;font-style:normal;font-variant:normal;text-rendering:auto;line-height:1}.fa,.far,.fas{font-family:"Font Awesome 5 Free"}.fa,.fas{font-weight:900}		</style>
+
+<style type="text/css">
+.background-image-page-header-overlay{background-color:rgba(0,0,0,0.66)}/* General CSS */a:hover,a.light:hover,.theme-heading .text::before,.theme-heading .text::after,#top-bar-content >a:hover,#top-bar-social li.oceanwp-email a:hover,#site-navigation-wrap .dropdown-menu >li >a:hover,#site-header.medium-header #medium-searchform button:hover,.oceanwp-mobile-menu-icon a:hover,.blog-entry.post .blog-entry-header .entry-title a:hover,.blog-entry.post .blog-entry-readmore a:hover,.blog-entry.thumbnail-entry .blog-entry-category a,ul.meta li a:hover,.dropcap,.single nav.post-navigation .nav-links .title,body .related-post-title a:hover,body #wp-calendar caption,body .contact-info-widget.default i,body .contact-info-widget.big-icons i,body .custom-links-widget .oceanwp-custom-links li a:hover,body .custom-links-widget .oceanwp-custom-links li a:hover:before,body .posts-thumbnails-widget li a:hover,body .social-widget li.oceanwp-email a:hover,.comment-author .comment-meta .comment-reply-link,#respond #cancel-comment-reply-link:hover,#footer-widgets .footer-box a:hover,#footer-bottom a:hover,#footer-bottom #footer-bottom-menu a:hover,.sidr a:hover,.sidr-class-dropdown-toggle:hover,.sidr-class-menu-item-has-children.active >a,.sidr-class-menu-item-has-children.active >a >.sidr-class-dropdown-toggle,input[type=checkbox]:checked:before{color:#4d69ff}.single nav.post-navigation .nav-links .title .owp-icon use,.blog-entry.post .blog-entry-readmore a:hover .owp-icon use,body .contact-info-widget.default .owp-icon use,body .contact-info-widget.big-icons .owp-icon use{stroke:#4d69ff}input[type="button"],input[type="reset"],input[type="submit"],button[type="submit"],.button,#site-navigation-wrap .dropdown-menu >li.btn >a >span,.thumbnail:hover i,.post-quote-content,.omw-modal .omw-close-modal,body .contact-info-widget.big-icons li:hover i,body div.wpforms-container-full .wpforms-form input[type=submit],body div.wpforms-container-full .wpforms-form button[type=submit],body div.wpforms-container-full .wpforms-form .wpforms-page-button{background-color:#4d69ff}.thumbnail:hover .link-post-svg-icon{background-color:#4d69ff}body .contact-info-widget.big-icons li:hover .owp-icon{background-color:#4d69ff}.widget-title{border-color:#4d69ff}blockquote{border-color:#4d69ff}#searchform-dropdown{border-color:#4d69ff}.dropdown-menu .sub-menu{border-color:#4d69ff}.blog-entry.large-entry .blog-entry-readmore a:hover{border-color:#4d69ff}.oceanwp-newsletter-form-wrap input[type="email"]:focus{border-color:#4d69ff}.social-widget li.oceanwp-email a:hover{border-color:#4d69ff}#respond #cancel-comment-reply-link:hover{border-color:#4d69ff}body .contact-info-widget.big-icons li:hover i{border-color:#4d69ff}#footer-widgets .oceanwp-newsletter-form-wrap input[type="email"]:focus{border-color:#4d69ff}blockquote,.wp-block-quote{border-left-color:#4d69ff}body .contact-info-widget.big-icons li:hover .owp-icon{border-color:#4d69ff}input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover,button[type="submit"]:hover,input[type="button"]:focus,input[type="reset"]:focus,input[type="submit"]:focus,button[type="submit"]:focus,.button:hover,#site-navigation-wrap .dropdown-menu >li.btn >a:hover >span,.post-quote-author,.omw-modal .omw-close-modal:hover,body div.wpforms-container-full .wpforms-form input[type=submit]:hover,body div.wpforms-container-full .wpforms-form button[type=submit]:hover,body div.wpforms-container-full .wpforms-form .wpforms-page-button:hover{background-color:#4d69ff}a{color:#0098c4}a .owp-icon use{stroke:#0098c4}a:hover{color:#0098c4}a:hover .owp-icon use{stroke:#0098c4}@media only screen and (min-width:960px){.content-area,.content-left-sidebar .content-area{width:100%}}#main #content-wrap,.separate-layout #main #content-wrap{padding-top:0;padding-bottom:0}/* Top Bar CSS */#top-bar{padding:0}#top-bar-wrap,.oceanwp-top-bar-sticky{background-color:rgba(255,255,255,0)}#top-bar-wrap{border-color:rgba(241,241,241,0)}#top-bar-wrap,#top-bar-content strong{color:#009cc3}#top-bar-content a,#top-bar-social-alt a{color:#009cc3}#top-bar-content a:hover,#top-bar-social-alt a:hover{color:#009cc3}/* Header CSS */#site-header,.has-transparent-header .is-sticky #site-header,.has-vh-transparent .is-sticky #site-header.vertical-header,#searchform-header-replace{background-color:rgba(255,255,255,0)}#site-header.has-header-media .overlay-header-media{background-color:rgba(0,0,0,0.5)}#site-logo #site-logo-inner a img,#site-header.center-header #site-navigation-wrap .middle-site-logo a img{max-width:110px}#site-header #site-logo #site-logo-inner a img,#site-header.center-header #site-navigation-wrap .middle-site-logo a img{max-height:17px}#site-navigation-wrap .dropdown-menu >li >a,.oceanwp-mobile-menu-icon a,#searchform-header-replace-close{color:#ffffff}#site-navigation-wrap .dropdown-menu >li >a .owp-icon use,.oceanwp-mobile-menu-icon a .owp-icon use,#searchform-header-replace-close .owp-icon use{stroke:#ffffff}#site-navigation-wrap .dropdown-menu >li >a{background-color:rgba(255,255,255,0)}#site-navigation-wrap .dropdown-menu >li >a:hover,#site-navigation-wrap .dropdown-menu >li.sfHover >a{background-color:rgba(255,255,255,0)}#site-navigation-wrap .dropdown-menu >.current-menu-item >a,#site-navigation-wrap .dropdown-menu >.current-menu-ancestor >a,#site-navigation-wrap .dropdown-menu >.current-menu-item >a:hover,#site-navigation-wrap .dropdown-menu >.current-menu-ancestor >a:hover{background-color:rgba(255,255,255,0)}.dropdown-menu .sub-menu,#searchform-dropdown,.current-shop-items-dropdown{border-color:#009cc3}@media (max-width:991px){#top-bar-nav,#site-navigation-wrap,.oceanwp-social-menu,.after-header-content{display:none}.center-logo #site-logo{float:none;position:absolute;left:50%;padding:0;-webkit-transform:translateX(-50%);transform:translateX(-50%)}#site-header.center-header #site-logo,.oceanwp-mobile-menu-icon,#oceanwp-cart-sidebar-wrap{display:block}body.vertical-header-style #outer-wrap{margin:0 !important}#site-header.vertical-header{position:relative;width:100%;left:0 !important;right:0 !important}#site-header.vertical-header .has-template >#site-logo{display:block}#site-header.vertical-header #site-header-inner{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;align-items:center;padding:0;max-width:90%}#site-header.vertical-header #site-header-inner >*:not(.oceanwp-mobile-menu-icon){display:none}#site-header.vertical-header #site-header-inner >*{padding:0 !important}#site-header.vertical-header #site-header-inner #site-logo{display:block;margin:0;width:50%;text-align:left}body.rtl #site-header.vertical-header #site-header-inner #site-logo{text-align:right}#site-header.vertical-header #site-header-inner .oceanwp-mobile-menu-icon{width:50%;text-align:right}body.rtl #site-header.vertical-header #site-header-inner .oceanwp-mobile-menu-icon{text-align:left}#site-header.vertical-header .vertical-toggle,body.vertical-header-style.vh-closed #site-header.vertical-header .vertical-toggle{display:none}#site-logo.has-responsive-logo .custom-logo-link{display:none}#site-logo.has-responsive-logo .responsive-logo-link{display:block}.is-sticky #site-logo.has-sticky-logo .responsive-logo-link{display:none}.is-sticky #site-logo.has-responsive-logo .sticky-logo-link{display:block}#top-bar.has-no-content #top-bar-social.top-bar-left,#top-bar.has-no-content #top-bar-social.top-bar-right{position:inherit;left:auto;right:auto;float:none;height:auto;line-height:1.5em;margin-top:0;text-align:center}#top-bar.has-no-content #top-bar-social li{float:none;display:inline-block}.owp-cart-overlay,#side-panel-wrap a.side-panel-btn{display:none !important}}body .sidr a:hover,body .sidr-class-dropdown-toggle:hover,body .sidr-class-dropdown-toggle .fa,body .sidr-class-menu-item-has-children.active >a,body .sidr-class-menu-item-has-children.active >a >.sidr-class-dropdown-toggle,#mobile-dropdown ul li a:hover,#mobile-dropdown ul li a .dropdown-toggle:hover,#mobile-dropdown .menu-item-has-children.active >a,#mobile-dropdown .menu-item-has-children.active >a >.dropdown-toggle,#mobile-fullscreen ul li a:hover,#mobile-fullscreen .oceanwp-social-menu.simple-social ul li a:hover{color:#009cc3}#mobile-fullscreen a.close:hover .close-icon-inner,#mobile-fullscreen a.close:hover .close-icon-inner::after{background-color:#009cc3}/* Footer Widgets CSS */#footer-widgets{background-color:#071a49}#footer-widgets,#footer-widgets p,#footer-widgets li a:before,#footer-widgets .contact-info-widget span.oceanwp-contact-title,#footer-widgets .recent-posts-date,#footer-widgets .recent-posts-comments,#footer-widgets .widget-recent-posts-icons li .fa{color:#ffffff}#footer-widgets li,#footer-widgets #wp-calendar caption,#footer-widgets #wp-calendar th,#footer-widgets #wp-calendar tbody,#footer-widgets .contact-info-widget i,#footer-widgets .oceanwp-newsletter-form-wrap input[type="email"],#footer-widgets .posts-thumbnails-widget li,#footer-widgets .social-widget li a{border-color:#ffffff}#footer-widgets .contact-info-widget .owp-icon{border-color:#ffffff}#footer-widgets .footer-box a:hover,#footer-widgets a:hover{color:#69ddff}/* Footer Bottom CSS */#footer-bottom{background-color:#071a49}#footer-bottom,#footer-bottom p{color:#ffffff}#footer-bottom a:hover,#footer-bottom #footer-bottom-menu a:hover{color:#69ddff}/* Typography CSS */body{font-family:Montserrat;font-size:20px;color:#0a0e1c;line-height:1.5}h1,h2,h3,h4,h5,h6,.theme-heading,.widget-title,.oceanwp-widget-recent-posts-title,.comment-reply-title,.entry-title,.sidebar-box .widget-title{font-family:Exo;color:#4d69ff;line-height:1.5}h1{font-family:Exo;font-size:30px;line-height:1.5}h2{font-family:Exo;font-size:30px;line-height:1.5}h3{font-size:30px;line-height:1.5}#top-bar-content,#top-bar-social-alt{font-size:14px}#site-navigation-wrap .dropdown-menu >li >a,#site-header.full_screen-header .fs-dropdown-menu >li >a,#site-header.top-header #site-navigation-wrap .dropdown-menu >li >a,#site-header.center-header #site-navigation-wrap .dropdown-menu >li >a,#site-header.medium-header #site-navigation-wrap .dropdown-menu >li >a,.oceanwp-mobile-menu-icon a{font-size:16px;text-transform:uppercase}.site-breadcrumbs{font-size:14px}
+</style> <noscript> Hailo offers a breakthrough nano AI processor, AI accelerator chip uniquely designed to accelerate embedded AI applications on edge devices. Hailo-8 is an AI hardware neural chip at Industry 4.0 standards with applications in the AI automotive, AI in retail, smart city, smart home technologies and more. </noscript>
+<script>
+        jQuery('a[href*="#"]:not([href="#"])').click(function() {
+            if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+                var target = jQuery(this.hash);
+                target = target.length ? target : jQuery('[name=' + this.hash.slice(1) +']');
+                if (target.length) {
+                    jQuery('html, body').animate({
+                        scrollTop: target.offset().top - 80
+                    }, 1000);
+                    return false;
+                }
+            }
+        });
+    </script>
+<meta name="google-site-verification" content="DIHBHqxK8UkI4uh3q-urmpYiLwLEL7htw7AZrnOrrAU" />
+</head>
+<body data-rsssl="1" class="page-template-default page page-id-6635 page-child parent-pageid-14141 wp-custom-logo wp-embed-responsive oceanwp-theme dropdown-mobile has-transparent-header no-header-border content-full-width content-max-width has-topbar page-with-background-title page-header-disabled has-breadcrumbs no-lightbox views-template-devzone-sw-downloads responsive-menu-pro-slide-left" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+<div id="outer-wrap" class="site clr">
+<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+<div id="wrap" class="clr">
+<div id="top-bar-wrap" class="clr">
+<div id="top-bar" class="clr container has-no-content">
+<div id="top-bar-inner" class="clr">
+</div>
+</div>
+</div>
+<div id="transparent-header-wrap" class="clr">
+<header id="site-header" class="transparent-header clr" data-height="74" itemscope="itemscope" itemtype="https://schema.org/WPHeader" role="banner">
+<div id="site-header-inner" class="clr container">
+<div class="login-mobile">
+<a class="login-link" href="#"><span class="text-wrap">sign in</span></a>
+</div>
+<div id="site-logo" class="clr" itemscope itemtype="https://schema.org/Brand">
+<div id="site-logo-inner" class="clr">
+<a href="https://developer.hailo.ai"><img width="105" height="17" src="/wp-content/uploads/2020/07/Main_2x.svg" class="custom-logo" alt="Hailo AI Processor for Edge Devices"></a>
+</div>
+</div>
+<div id="site-navigation-wrap" class="clr">
+<nav id="site-navigation" class="navigation main-navigation clr" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" role="navigation">
+<ul id="menu-main-menu-new" class="main-menu dropdown-menu sf-menu"><li id="menu-item-17986" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17986 mgm-object-id-17986"><a href="https://hailo.ai" class="menu-link"><span class="text-wrap">HAILO.AI</span></a><div class="add-content"><div class="nav-content"><h4>HAILO.AI</h4></div></div></li><li class="menu-item menu-item-search"><a href="#" class="search-icon search-func"><img src="/wp-content/themes/hailo/assets/images/new/search-main.svg"></a></li><li id="menu-item-17998" class="devzone-menu-item menu-item menu-item-type-custom menu-item-object-custom menu-item-17998 mgm-object-id-17998"><a href="https://hailo.ai" class="menu-link"><span class="text-wrap">Hailo AI</span></a><div class="add-content"><div class="nav-content"><h4>Hailo AI</h4></div></div></li><li id="menu-item-17988" class="login-link menu-item menu-item-type-custom menu-item-object-custom menu-item-17988 mgm-object-id-17988"><a href="#" class="menu-link"><span class="text-wrap">Sign In</span></a><div class="add-content"><div class="nav-content"><h4>Sign In</h4></div></div></li></ul>
+</nav>
+</div>
+<div class="oceanwp-mobile-menu-icon clr mobile-right">
+<a href="javascript:void(0)" class="mobile-menu" aria-label="Mobile Menu">
+<i class="fa fa-bars" aria-hidden="true"></i>
+</a>
+</div>
+<div id="login-form">
+<div class="login-form-container" data-uname>
+<form class="wpv-form" name="loginform" id="loginform" action="https://developer.hailo.ai/h-login/?wpe-login=hailoprod" method="post">
+<div class="wp-success"></div>
+<p class="login-username">
+<label for="user_login">Username or Email</label>
+<input type="text" name="log" id="user_login" class="input" value size="20" />
+</p>
+<p class="login-password">
+<label for="user_pass">Password</label>
+<input type="password" name="pwd" id="user_pass" class="input" value size="20" />
+</p>
+<p class="login-submit">
+<input type="submit" name="wp-submit" id="wp-submit" class="button-primary" value="Log In" />
+<input type="hidden" name="redirect_to" value="https://developer.hailo.ai/developer-zone/sw-downloads/?dl_dev=true&#038;file=b3ea8e4804a8e45e8254e9e1a3b7de78" />
+</p>
+<input type="hidden" name="wpv_login_form" value="on" />
+</form>
+<br/>
+</p>
+<div class="info-login">Forgot your <button class="login-btn-inline" id="open-forgot-form">password?</button></div>
+<div class="info-login">Don’t have account <button class="login-btn-inline" id="open-register-form">Request Access here</button></div>
+<p>
+</p></div>
+</div>
+<div id="forgot-password-modal">
+<div class="forgot-inner">
+<div class="forgot-form-container">
+<button class="close-modal"><img decoding="async" src="/wp-content/uploads/2021/03/close.png" alt="icon close"></button></p>
+<h2>Reset Password</h2>
+<form class="wpv-form" name="forgotpasswordform" id="forgotpasswordform" action="https://developer.hailo.ai/h-login/?action=lostpassword&#038;wpe-login=hailoprod" method="post">
+<div class="wp-success"></div>
+<p class="login-username">
+<label for="user_login">Username or Email</label>
+<input type="text" name="user_login" id="user_login" class="input" value size="20" />
+</p>
+<div class="g-recaptcha" data-sitekey="6Le_Zw4iAAAAAPPunNu1Ld1BY-9pdvVSM4rb3UY-"></div>
+<script src="https://www.google.com/recaptcha/api.js" defer fetchpriority="low"></script>
+<label for="amex" style="display:none">AMEX</label>
+<input type="hidden" name="amex" required value id="amex">
+<p class="login-submit">
+<input type="submit" name="wp-submit" id="wp-submit" class="button-primary" value="Get New Password" />
+<input type="hidden" name="redirect_to" value="https://developer.hailo.ai/developer-zone/sw-downloads/?dl_dev=true&#038;file=b3ea8e4804a8e45e8254e9e1a3b7de78" />
+</p>
+<input type="hidden" name="wpv_forgot_password_form" value="on" /><input type="hidden" name="wpv_forgot_password_form_redirect_on_fail" value="https://developer.hailo.ai/developer-zone/sw-downloads/?dl_dev=true&#038;file=b3ea8e4804a8e45e8254e9e1a3b7de78" />
+</form></div>
+</p></div>
+</div>
+</div>
+<div class="header-search-bar">
+<div class="header-search-wrap">
+<form action="/" class="header-search-form">
+<input type="text" placeholder="Search Anything" name="s" value>
+</form>
+<a href="#" class="close-header-search"><img src="/wp-content/themes/hailo/assets/images/new/close.svg"></a>
+</div>
+</div>
+</header>
+</div>
+<main id="main" class="site-main clr" role="main">
+<div id="content-wrap" class="container clr">
+<div id="primary" class="content-area clr">
+<div id="content" class="site-content clr">
+<article class="single-page-article clr">
+<div class="entry clr" itemprop="text">
+<div class="devzone_h devzone_sticky_header" style="background:#009CC3;">
+<div class="container">
+<div class="flex">
+<div class="devzone_menu">
+<div class="menu-devzone-menu-container">
+<ul id="menu-devzone-menu" class="menu">
+<li id="menu-item-5612" class="sw-downloads-li menu-item ">
+<a href="https://developer.hailo.ai/developer-zone/sw-downloads/">SW Downloads</a>
+</li>
+<li id="menu-item-4993" class="documentation-li menu-item ">
+<a href="https://developer.hailo.ai/developer-zone/documentation/">Documentation</a>
+</li>
+<li id="menu-item-5604" class="support-li menu-item ">
+<a href="/developer-zone/customer-support/">Tutorials</a>
+</li>
+<li id="menu-item-4988" class="design-li menu-item">
+<a href="https://hailo.ai/products/hailo-software/model-explorer/" aria-current="page">Model Explorer</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="devzone_header_cont devzone_header_cont_simple">
+<section class="devzone_h devzone_header">
+<div class="container">
+<h1>
+<img decoding="async" src="https://developer.hailo.ai/wp-content/uploads/2022/01/Downloads.gif">
+Software Downloads</h1>
+</div>
+</section>
+</div>
+<section class="devzone-documentation">
+<div class="container">
+<span class="oceanwp-breadcrumb"><nav aria-label="Breadcrumbs" class="site-breadcrumbs clr position-under-title" itemprop="breadcrumb"><ol class="trail-items" itemscope itemtype="http://schema.org/BreadcrumbList"><meta name="numberOfItems" content="3" /><meta name="itemListOrder" content="Ascending" /><li class="trail-item trail-begin" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="https://developer.hailo.ai" rel="home" aria-label="Home Page" itemtype="https://schema.org/Thing" itemprop="item"><span itemprop="name"><span class="breadcrumb-home">Home Page</span></span></a><span class="breadcrumb-sep">></span><meta content="1" itemprop="position" /></li><li class="trail-item" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="https://developer.hailo.ai/developer-zone/" itemtype="https://schema.org/Thing" itemprop="item"><span itemprop="name">Developer Zone</span></a><span class="breadcrumb-sep">></span><meta content="2" itemprop="position" /></li><li class="trail-item trail-end" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="https://developer.hailo.ai/developer-zone/sw-downloads/" itemtype="https://schema.org/Thing" itemprop="item"><span itemprop="name">SW Downloads</span></a><meta content="3" itemprop="position" /></li></ol></nav></span>
+<div class="modal-window-new modal-request">
+<div class="container">
+<div class="text-window">
+<div class="modal-head">
+<img decoding="async" src="/wp-content/themes/hailo/assets/images/new/access.svg" alt="access">
+</div>
+<h2>Access is restricted to authorized users only</h2>
+<div class="buttons-group">
+<button id="request-access">Request access</button><button id="sign-in">Sign in</button>
+</div>
+</p></div>
+</p></div>
+</p></div>
+</div>
+</section>
+</div>
+</article>
+</div>
+</div>
+</div>
+</main>
+<div id="register-form-modal">
+<div class="register-inner">
+<div class="register-form-container hbspt-form">
+<h2>Request Access to Developer Zone</h2>
+<p> <button class="close-modal"><img decoding="async" src="/wp-content/uploads/2021/03/close.png" alt="icon close"></button><br/>
+</div>
+</p></div>
+</div>
+
+
+
+
+<footer id="footer" class="site-footer" itemscope="itemscope" itemtype="https://schema.org/WPFooter" role="contentinfo">
+<div id="footer-inner" class="clr">
+<div id="footer-widgets" class="oceanwp-row clr">
+<div class="footer-widgets-inner container">
+<div class="footer-box span_1_of_2 col col-1">
+<div id="media_image-2" class="footer-widget widget_media_image clr"><img width="284" height="83" src="https://developer.hailo.ai/wp-content/uploads/2020/07/large-Group-39.png" class="image wp-image-1664  attachment-full size-full" alt="Hailo Empowering Intelligence for Edge Devices" decoding="async" style="max-width: 100%; height: auto;" /></div> </div>
+<div class="footer-box span_1_of_2 col col-2">
+</div>
+</div>
+</div>
+<div class="h_footer_menues">
+<div class="container">
+<div class="row footer_desktop">
+<div class="col-lg-3 col-md-3 col-6 h_footer_menu_item">
+<a href="/"><img src="/wp-content/themes/hailo/assets/images/new/logo.svg" alt="Hailo Empowering Intelligence for Edge Devices"></a>
+</div>
+</div>
+<div class="row footer_desktop justify-content-between">
+<div class="col-lg-6">
+<div class="footer-subscribe">
+<h4>Get the latest Hailo updates</h4>
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js" defer onload="hsf1();"></script>
+<script>
+                            function hsf1() {
+                                console.log('Hubspot Form 1')
+                                hbspt.forms.create({
+                                    portalId: "3383687",
+                                    formId: "82d04d31-a03d-4634-943c-1b6652cccc1e",
+                                    onFormSubmitted : function(){
+                                        console.log('submitted');
+                                    }
+                                });}
+                        </script>
+</div>
+</div>
+<div class="col-lg-6">
+<div class="row contact_details justify-content-end"><div id="ocean_social-2" class="footer-widget widget-oceanwp-social social-widget clr">
+<ul class="oceanwp-social-icons no-transition style-simple">
+<li class="oceanwp-twitter">
+<a href="https://twitter.com/Hailo_ai" aria-label="Twitter" target="_blank" rel="noopener noreferrer">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z" /></svg>
+</a>
+</li>
+<li class="oceanwp-facebook">
+<a href="https://www.facebook.com/HailoTech/" aria-label="Facebook" target="_blank" rel="noopener noreferrer">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z" /></svg> </a>
+</li>
+<li class="oceanwp-linkedin">
+<a href="https://www.linkedin.com/company/hailo-ai/" aria-label="LinkedIn" target="_blank" rel="noopener noreferrer">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z" /></svg>
+</a>
+</li>
+<li class="oceanwp-youtube">
+<a href="https://www.youtube.com/channel/UCJyQfXEbUVHhiXM_Lc9e2aw" aria-label="Youtube" target="_blank" rel="noopener noreferrer">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z" /></svg>
+</a>
+</li>
+</ul>
+</div></div> </div>
+</div>
+<div class="row footer_desktop">
+<div class="col-lg-2 col-md-3 col-6 h_footer_menu_item">
+<div class="menu-footer-10-container"><ul id="menu-footer-10" class="menu"><li id="menu-item-17991" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17991 mgm-object-id-17991"><a href="#">AI Vision Processors</a></li>
+<li id="menu-item-17992" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17992 mgm-object-id-17992"><a href="https://hailo.ai/products/ai-vision-processors/hailo-15-ai-vision-processor/">Hailo-15 AI Vision Processor</a></li>
+<li id="menu-item-17993" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17993 mgm-object-id-17993"><a href="https://hailo.ai/products/ai-vision-processors/hailo-15-camera-development-kit/">Hailo-15 Camera Development Kit</a></li>
+<li id="menu-item-17994" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17994 mgm-object-id-17994"><a href="https://hailo.ai/order-camera-development-kit/">Order Camera Development Kit</a></li>
+</ul></div>
+</div>
+<div class="col-lg-2 col-md-3 col-6 h_footer_menu_item">
+<div class="menu-footer-1-container"><ul id="menu-footer-1" class="menu"><li id="menu-item-632" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-632 mgm-object-id-632"><a href="#">AI Accelerators</a></li>
+<li id="menu-item-17946" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17946 mgm-object-id-17946"><a href="https://hailo.ai/products/ai-accelerators/hailo-8-ai-accelerator/">Hailo-8 AI Accelerator</a></li>
+<li id="menu-item-17947" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17947 mgm-object-id-17947"><a href="https://hailo.ai/products/ai-accelerators/hailo-8l-ai-accelerator-for-ai-light-applications/">Hailo-8L Entry-Level AI Accelerator</a></li>
+<li id="menu-item-17948" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17948 mgm-object-id-17948"><a href="https://hailo.ai/products/ai-accelerators/hailo-8-century-high-performance-pcie-card/">Hailo-8 Century High Performance PCIe Card</a></li>
+<li id="menu-item-17949" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17949 mgm-object-id-17949"><a href="https://hailo.ai/products/ai-accelerators/hailo-8-m2-ai-acceleration-module/">Hailo-8 M.2 AI Acceleration Module</a></li>
+<li id="menu-item-17950" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17950 mgm-object-id-17950"><a href="https://hailo.ai/products/ai-accelerators/hailo-8l-m-2-ai-acceleration-module-for-ai-light-applications/">Hailo-8L M.2 Entry-Level Acceleration Module</a></li>
+<li id="menu-item-17951" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17951 mgm-object-id-17951"><a href="https://hailo.ai/products/ai-accelerators/hailo-8r-mpcie-ai-acceleration-module/">Hailo-8R mPCIe AI Acceleration module</a></li>
+<li id="menu-item-17952" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17952 mgm-object-id-17952"><a href="https://hailo.ai/order-starter-kit/">Order Starter Kit</a></li>
+</ul></div>
+</div>
+<div class="col-lg-2 col-md-3 col-6 h_footer_menu_item">
+<div class="menu-footer-2-container"><ul id="menu-footer-2" class="menu"><li id="menu-item-15664" class="menu-item menu-item-type-post_type menu-item-object-product-hailo menu-item-15664 mgm-object-id-15394"><a href="https://developer.hailo.ai/products/hailo-software/">SOFTWARE</a></li>
+<li id="menu-item-17956" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17956 mgm-object-id-17956"><a href="https://hailo.ai/products/hailo-software/hailo-ai-software-suite/">Software Suite</a></li>
+<li id="menu-item-17957" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17957 mgm-object-id-17957"><a href="https://hailo.ai/products/hailo-software/hailo-ai-software-suite/#sw-dc">Dataflow Compiler</a></li>
+<li id="menu-item-17958" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17958 mgm-object-id-17958"><a href="https://hailo.ai/products/hailo-software/hailo-ai-software-suite/#sw-hailort">HailoRT</a></li>
+<li id="menu-item-17959" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17959 mgm-object-id-17959"><a href="https://hailo.ai/products/hailo-software/hailo-ai-software-suite/#sw-modelzoo">Model Zoo</a></li>
+<li id="menu-item-17960" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17960 mgm-object-id-17960"><a href="https://hailo.ai/products/hailo-software/model-explorer/">Model explorer</a></li>
+<li id="menu-item-17961" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17961 mgm-object-id-17961"><a href="https://hailo.ai/products/hailo-software/hailo-ai-software-suite/#sw-tappas">TAPPAS</a></li>
+<li id="menu-item-17962" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17962 mgm-object-id-17962"><a href="https://hailo.ai/products/hailo-software/vision-processor-software-package/">Vision Processor Software Package</a></li>
+<li id="menu-item-17963" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17963 mgm-object-id-17963"><a href="https://hailo.ai/products/hailo-software/vision-processor-software-package/#sw-app-dsp">Application Processor</a></li>
+<li id="menu-item-17964" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17964 mgm-object-id-17964"><a href="https://hailo.ai/products/hailo-software/vision-processor-software-package/#sw-app-dsp">DSP</a></li>
+</ul></div>
+</div>
+<div class="col-lg-2 col-md-3 col-6 h_footer_menu_item">
+<div class="menu-footer-3-container"><ul id="menu-footer-3" class="menu"><li id="menu-item-3497" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3497 mgm-object-id-3497"><a href="#">Automotive</a></li>
+<li id="menu-item-17965" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17965 mgm-object-id-17965"><a href="https://hailo.ai/applications/automotive/adas-and-ad/">ADAS &#038; AD</a></li>
+</ul></div>
+</div>
+<div class="col-lg-2 col-md-3 col-6 h_footer_menu_item">
+<div class="menu-footer-4-container"><ul id="menu-footer-4" class="menu"><li id="menu-item-17966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17966 mgm-object-id-17966"><a href="#">Security</a></li>
+<li id="menu-item-17967" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17967 mgm-object-id-17967"><a href="https://hailo.ai/applications/security/intelligent-transportation/">Intelligent transportation</a></li>
+<li id="menu-item-17968" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17968 mgm-object-id-17968"><a href="https://hailo.ai/applications/security/perimeter-protection/">Perimeter Protection</a></li>
+<li id="menu-item-17969" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17969 mgm-object-id-17969"><a href="https://hailo.ai/applications/security/access-control/">Access Control</a></li>
+</ul></div>
+</div>
+<div class="col-lg-2 col-md-3 col-6 h_footer_menu_item">
+<div class="menu-footer-5-container"><ul id="menu-footer-5" class="menu"><li id="menu-item-17970" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17970 mgm-object-id-17970"><a href="#">Industrial Automation</a></li>
+<li id="menu-item-17971" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17971 mgm-object-id-17971"><a href="https://hailo.ai/applications/industrial-automation/automatic-optical-inspection/">Automatic Optical Inspection</a></li>
+</ul></div>
+</div>
+<div class="col-lg-2 col-md-3 col-6 h_footer_menu_item">
+<div class="menu-footer-6-container"><ul id="menu-footer-6" class="menu"><li id="menu-item-17972" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17972 mgm-object-id-17972"><a href="#">Retail</a></li>
+<li id="menu-item-17973" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17973 mgm-object-id-17973"><a href="https://hailo.ai/applications/retail/smart-retail/">Smart Retail</a></li>
+</ul></div>
+</div>
+<div class="col-lg-2 col-md-3 col-6 h_footer_menu_item">
+<div class="menu-footer-7-container"><ul id="menu-footer-7" class="menu"><li id="menu-item-17974" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17974 mgm-object-id-17974"><a href="#">Company</a></li>
+<li id="menu-item-17975" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17975 mgm-object-id-17975"><a href="https://hailo.ai/company-overview/">About Us</a></li>
+<li id="menu-item-17976" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17976 mgm-object-id-17976"><a href="https://hailo.ai/products/technology/">Technology</a></li>
+<li id="menu-item-17977" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17977 mgm-object-id-17977"><a href="https://hailo.ai/company-overview/newsroom/">News &#038; Events</a></li>
+<li id="menu-item-17978" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17978 mgm-object-id-17978"><a href="https://hailo.ai/company-overview/contact-us/">Contact Us</a></li>
+<li id="menu-item-17979" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17979 mgm-object-id-17979"><a href="https://hailo.ai/company-overview/careers/">Careers</a></li>
+</ul></div>
+</div>
+<div class="col-lg-2 col-md-3 col-6 h_footer_menu_item">
+<div class="menu-footer-8-container"><ul id="menu-footer-8" class="menu"><li id="menu-item-17980" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17980 mgm-object-id-17980"><a href="https://hailo.ai/ecosystem/partners/">Ecosystem</a></li>
+<li id="menu-item-17981" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17981 mgm-object-id-17981"><a href="https://hailo.ai/ecosystem/partners/">Partners</a></li>
+<li id="menu-item-17982" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17982 mgm-object-id-17982"><a href="https://hailo.ai/ecosystem/platform-selection-guide/">Platform Selection Guide</a></li>
+</ul></div>
+</div>
+<div class="col-lg-2 col-md-3 col-6 h_footer_menu_item">
+<div class="menu-footer-9-container"><ul id="menu-footer-9" class="menu"><li id="menu-item-17983" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17983 mgm-object-id-17983"><a href="#">Resources</a></li>
+<li id="menu-item-17984" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17984 mgm-object-id-17984"><a href="https://hailo.ai/resources/">Resource Center</a></li>
+<li id="menu-item-17985" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17985 mgm-object-id-17985"><a href="https://hailo.ai/blog/">Blog</a></li>
+</ul></div>
+</div>
+</div>
+<div class="footer_mobile">
+<div class="menu-footer-mobile-container"><ul id="menu-footer-mobile" class="menu"><li id="menu-item-1725" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1725 mgm-object-id-1114"><a href="https://developer.hailo.ai/resources/">Resources</a></li>
+<li id="menu-item-1732" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1732 mgm-object-id-282"><a href="https://developer.hailo.ai/newsroom/">News &#038; Events</a></li>
+<li id="menu-item-1727" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1727 mgm-object-id-517"><a href="https://developer.hailo.ai/contact-us/">Contact Us</a></li>
+<li id="menu-item-2700" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2700 mgm-object-id-422"><a href="https://developer.hailo.ai/company-overview/careers/">Careers</a></li>
+<li id="menu-item-1726" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1726 mgm-object-id-922"><a href="https://developer.hailo.ai/products/technology/">Technology</a></li>
+</ul></div>
+</div>
+</div>
+</div>
+</div>
+<div id="footer-bottom" class="clr no-footer-nav">
+<div id="footer-bottom-inner" class="container clr">
+<div id="copyright" class="clr" role="contentinfo">
+<div class="row">
+<div class="col-md-6"><a href="/" class="non-click">All rights reserved </a><a href="/terms-of-use/">Terms </a><a href="/privacy-policy">Privacy Policy</a> <a href="/cookie-policy/">Cookie Settings </a></div>
+<div class="col-md-6"> <a href="https://ozglobalb2b.com/" target="_blank">UI <strong>OZ GLOBAL B2B</strong></a></div></div> </div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+</div>
+<a aria-label="Scroll to the top of the page" href="#" id="scroll-top" class="scroll-top-right"><i class=" fa fa-angle-up" aria-hidden="true" role="img"></i></a>
+<script type="text/javascript">
+const wpvCtHead = document.getElementsByTagName( "head" )[ 0 ];
+const wpvCtExtraCss = document.createElement( "style" );
+wpvCtExtraCss.textContent = '/* ----------------------------------------- *//* Content Template: custom-login - start *//* ----------------------------------------- */.forgot-form-container{	position:relative;}/* ----------------------------------------- *//* Content Template: custom-login - end *//* ----------------------------------------- *//* ----------------------------------------- *//* Content Template: devzone-header-simple - start *//* ----------------------------------------- */body .devzone_sticky_header div#search-header form.searchform{	display:none;}.views-template-developer-zone .news-li a,.views-template-devzone-hailo-sw .hailo-sw-li a,.views-template-tappas-apps-toolkit .tappas-li a,.views-template-devzone-model-zoo .model-li a,.single-devzone-model-zoo .model-li a,.views-template-devzone-documentation .documentation-li a,.views-template-devzone-benchmarks .benchmarks-li a,.views-template-devzone-support .support-li a,.single-support-lesson .support-li a,.views-template-devzone-sw-downloads .sw-downloads-li a{	color: #0a286b !important;    font-weight: 600;}.views-template-developer-zone .news-li a::before,.views-template-devzone-hailo-sw .hailo-sw-li a::before, .views-template-tappas-apps-toolkit .tappas-li a::before,.views-template-devzone-model-zoo .model-li a::before,.single-devzone-model-zoo .model-li a::before,.views-template-devzone-documentation .documentation-li a::before,.views-template-devzone-benchmarks .benchmarks-li a::before,.views-template-devzone-support .support-li a::before,.single-support-lesson  .support-li a::before,.views-template-devzone-sw-downloads .sw-downloads-li a::before{    filter: brightness(0.4);}.views-template-developer-zone .news-li a::after,.views-template-devzone-hailo-sw .hailo-sw-li a::after, .views-template-tappas-apps-toolkit .tappas-li a::after,.views-template-devzone-model-zoo .model-li a::after,.single-devzone-model-zoo .model-li a::after,.views-template-devzone-documentation .documentation-li a::after,.views-template-devzone-benchmarks .benchmarks-li a::after,.views-template-devzone-support .support-li a::after,.single-support-lesson .support-li a::after,.views-template-devzone-sw-downloads .sw-downloads-li a::after {    filter: brightness(0.1);}/* ----------------------------------------- *//* Content Template: devzone-header-simple - end *//* ----------------------------------------- */';
+wpvCtHead.appendChild( wpvCtExtraCss );
+</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-138492274-1"></script>
+<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'UA-138492274-1');
+		</script>
+<button id="responsive-menu-pro-button" tabindex="1" class="responsive-menu-pro-button responsive-menu-pro-3dx responsive-menu-pro-accessible" type="button" aria-label="Menu">
+<span class="responsive-menu-pro-box"><span class="responsive-menu-pro-inner"></span>
+</span></button><div id="responsive-menu-pro-container" class=" slide-left">
+<div id="responsive-menu-pro-wrapper" role="navigation" aria-label="main-menu"><ul id="responsive-menu-pro" role="menubar" aria-label><li id="responsive-menu-pro-item-3910" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children responsive-menu-pro-item responsive-menu-pro-item-has-children" role="none"><a href="#" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Products<div class="responsive-menu-pro-subarrow"><img alt src="/wp-content/uploads/2021/12/Vector.png" /></div></a><ul aria-label="Products" role="menu" data-depth="2" class="responsive-menu-pro-submenu responsive-menu-pro-submenu-depth-1"><div class="responsive-menu-pro-back"><img alt src="/wp-content/uploads/2021/12/Vector-2.png" /> Back</div><li id="responsive-menu-pro-item-15412" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children responsive-menu-pro-item responsive-menu-pro-item-has-children" role="none"><a href="#" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">AI Vision Processors<div class="responsive-menu-pro-subarrow"><img alt src="/wp-content/uploads/2021/12/Vector.png" /></div></a><ul aria-label="AI Vision Processors" role="menu" data-depth="3" class="responsive-menu-pro-submenu responsive-menu-pro-submenu-depth-2"><div class="responsive-menu-pro-back"><img alt src="/wp-content/uploads/2021/12/Vector-2.png" /> Back</div><li id="responsive-menu-pro-item-15413" class="menu-decoration menu-item menu-item-type-custom menu-item-object-custom responsive-menu-pro-item" role="none"><a href="#" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Devices</a></li><li id="responsive-menu-pro-item-15414" class=" menu-item menu-item-type-post_type menu-item-object-product-hailo responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/products/hailo-15/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="menu-text">Hailo-15™ AI Vision Processor</span></a></li><li id="responsive-menu-pro-item-15415" class="menu-decoration menu-item menu-item-type-custom menu-item-object-custom responsive-menu-pro-item" role="none"><a href="#" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Platforms</a></li><li id="responsive-menu-pro-item-15416" class=" menu-item menu-item-type-post_type menu-item-object-product-hailo responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/products/hailo-15-camera-development-kit/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="menu-text">Hailo-15™ Camera Development Kit</span></a></li></ul></li><li id="responsive-menu-pro-item-12866" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children responsive-menu-pro-item responsive-menu-pro-item-has-children" role="none"><a href="#" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">AI Accelerators<div class="responsive-menu-pro-subarrow"><img alt src="/wp-content/uploads/2021/12/Vector.png" /></div></a><ul aria-label="AI Accelerators" role="menu" data-depth="3" class="responsive-menu-pro-submenu responsive-menu-pro-submenu-depth-2"><div class="responsive-menu-pro-back"><img alt src="/wp-content/uploads/2021/12/Vector-2.png" /> Back</div><li id="responsive-menu-pro-item-15425" class="menu-decoration menu-item menu-item-type-custom menu-item-object-custom responsive-menu-pro-item" role="none"><a href="#" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Devices</a></li><li id="responsive-menu-pro-item-3914" class=" menu-item menu-item-type-post_type menu-item-object-product-hailo responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/products/hailo-8/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="menu-text">Hailo-8™ AI Accelerator</span></a></li><li id="responsive-menu-pro-item-17335" class=" menu-item menu-item-type-post_type menu-item-object-product-hailo responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/products/hailo-8l/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="menu-text">Hailo-8L™ Entry-Level AI Accelerator</span></a></li><li id="responsive-menu-pro-item-15434" class="menu-decoration menu-item menu-item-type-custom menu-item-object-custom responsive-menu-pro-item" role="none"><a href="#" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Platforms</a></li><li id="responsive-menu-pro-item-3913" class=" menu-item menu-item-type-post_type menu-item-object-product-hailo responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/products/hailo-8-m2-module/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="menu-text">Hailo-8™ M.2 AI Acceleration Module</span></a></li><li id="responsive-menu-pro-item-12916" class=" menu-item menu-item-type-post_type menu-item-object-product-hailo responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/products/hailo-8-starter-kit/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="menu-text">Hailo-8™ M.2 Starter Kit</span></a></li><li id="responsive-menu-pro-item-4325" class="upper-line menu-item menu-item-type-post_type menu-item-object-product-hailo responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/products/hailo-8-mini-pcie-ai-acceleration-module/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="menu-text">Hailo-8R™ mPCIe AI Acceleration Module</span></a></li><li id="responsive-menu-pro-item-17336" class="upper-line menu-item menu-item-type-post_type menu-item-object-product-hailo responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/products/hailo-8l-m2-module/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="menu-text">Hailo-8L™ Entry-Level M.2 AI Acceleration Module</span></a></li><li id="responsive-menu-pro-item-10806" class="upper-line menu-item menu-item-type-post_type menu-item-object-product-hailo responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/products/hailo-8-century-pcie-card/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="menu-text">Hailo-8™ Century High Performance PCIe Cards</span></a></li></ul></li><li id="responsive-menu-pro-item-15448" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children responsive-menu-pro-item responsive-menu-pro-item-has-children" role="none"><a href="#" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Software<div class="responsive-menu-pro-subarrow"><img alt src="/wp-content/uploads/2021/12/Vector.png" /></div></a><ul aria-label="Software" role="menu" data-depth="3" class="responsive-menu-pro-submenu responsive-menu-pro-submenu-depth-2"><div class="responsive-menu-pro-back"><img alt src="/wp-content/uploads/2021/12/Vector-2.png" /> Back</div><li id="responsive-menu-pro-item-15659" class=" menu-item menu-item-type-post_type menu-item-object-product-hailo responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/products/hailo-software/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Hailo AI Software Suite</a></li><li id="responsive-menu-pro-item-3911" class=" menu-item menu-item-type-post_type menu-item-object-product-hailo responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/product-hailo/hailo-software-suite/hailo-dataflow-compiler/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="menu-text">Dataflow Compiler</span></a></li><li id="responsive-menu-pro-item-12868" class=" menu-item menu-item-type-post_type menu-item-object-product-hailo responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/products/hailo-software-suite/hailort/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="menu-text">HailoRT</span></a></li><li id="responsive-menu-pro-item-17708" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/products/hailo-software-suite/model-zoo/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="menu-text">Model Zoo</span></a></li><li id="responsive-menu-pro-item-12870" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/products/hailo-software-suite/tappas/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="menu-text">TAPPAS</span></a></li><li id="responsive-menu-pro-item-15463" class="upper-line menu-item menu-item-type-post_type menu-item-object-product-hailo responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/products/hailo-15-software/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="menu-text">Vision Processor SW Package</span></a></li></ul></li><li id="responsive-menu-pro-item-10634" class="upper-line menu-item menu-item-type-post_type menu-item-object-page responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/products/technology/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="menu-text">Technology</span></a></li></ul></li><li id="responsive-menu-pro-item-3921" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children responsive-menu-pro-item responsive-menu-pro-item-has-children" role="none"><a href="#" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Industries<div class="responsive-menu-pro-subarrow"><img alt src="/wp-content/uploads/2021/12/Vector.png" /></div></a><ul aria-label="Industries" role="menu" data-depth="2" class="responsive-menu-pro-submenu responsive-menu-pro-submenu-depth-1"><div class="responsive-menu-pro-back"><img alt src="/wp-content/uploads/2021/12/Vector-2.png" /> Back</div><li id="responsive-menu-pro-item-3918" class=" menu-item menu-item-type-post_type menu-item-object-industry menu-item-has-children responsive-menu-pro-item responsive-menu-pro-item-has-children" role="none"><a href="https://developer.hailo.ai/industry/automotive/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Automotive<div class="responsive-menu-pro-subarrow"><img alt src="/wp-content/uploads/2021/12/Vector.png" /></div></a><ul aria-label="Automotive" role="menu" data-depth="3" class="responsive-menu-pro-submenu responsive-menu-pro-submenu-depth-2"><div class="responsive-menu-pro-back"><img alt src="/wp-content/uploads/2021/12/Vector-2.png" /> Back</div><li id="responsive-menu-pro-item-3922" class=" menu-item menu-item-type-post_type menu-item-object-reference-platform responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/reference-platform/adas-electronic-control-unit/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="menu-text">ADAS Electronic Control Unit</span></a></li><li id="responsive-menu-pro-item-3931" class=" menu-item menu-item-type-post_type menu-item-object-reference-platform responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/reference-platform/forward-facing-camera/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="menu-text">Front-Facing Camera</span></a></li><li id="responsive-menu-pro-item-10640" class="disabled menu-item menu-item-type-post_type menu-item-object-reference-platform responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/reference-platform/edge-ai-box/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Edge AI Box</a></li><li id="responsive-menu-pro-item-10639" class="disabled menu-item menu-item-type-post_type menu-item-object-reference-platform responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/reference-platform/camera/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Intelligent Camera</a></li></ul></li><li id="responsive-menu-pro-item-11520" class=" menu-item menu-item-type-post_type menu-item-object-industry menu-item-has-children responsive-menu-pro-item responsive-menu-pro-item-has-children" role="none"><a href="https://developer.hailo.ai/industry/intelligent-transportation-systems-its/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="menu-text">Intelligent Transportation System (ITS)</span><div class="responsive-menu-pro-subarrow"><img alt src="/wp-content/uploads/2021/12/Vector.png" /></div></a><ul aria-label="Intelligent Transportation System (ITS)" role="menu" data-depth="3" class="responsive-menu-pro-submenu responsive-menu-pro-submenu-depth-2"><div class="responsive-menu-pro-back"><img alt src="/wp-content/uploads/2021/12/Vector-2.png" /> Back</div><li id="responsive-menu-pro-item-11597" class="disabled menu-item menu-item-type-post_type menu-item-object-reference-platform responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/reference-platform/adas-electronic-control-unit/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">ADAS Electronic Control Unit</a></li><li id="responsive-menu-pro-item-11598" class="disabled menu-item menu-item-type-post_type menu-item-object-reference-platform responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/reference-platform/forward-facing-camera/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Front-Facing Camera</a></li><li id="responsive-menu-pro-item-11522" class=" menu-item menu-item-type-post_type menu-item-object-reference-platform responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/reference-platform/edge-ai-box/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="menu-text">Edge AI Box</span></a></li><li id="responsive-menu-pro-item-11521" class=" menu-item menu-item-type-post_type menu-item-object-reference-platform responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/reference-platform/camera/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="menu-text">Intelligent Camera</span></a></li></ul></li><li id="responsive-menu-pro-item-14805" class=" menu-item menu-item-type-post_type menu-item-object-industry menu-item-has-children responsive-menu-pro-item responsive-menu-pro-item-has-children" role="none"><a href="https://developer.hailo.ai/industry/video-management-system-vms/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="menu-text">Video Management System (VMS)</span><div class="responsive-menu-pro-subarrow"><img alt src="/wp-content/uploads/2021/12/Vector.png" /></div></a><ul aria-label="Video Management System (VMS)" role="menu" data-depth="3" class="responsive-menu-pro-submenu responsive-menu-pro-submenu-depth-2"><div class="responsive-menu-pro-back"><img alt src="/wp-content/uploads/2021/12/Vector-2.png" /> Back</div><li id="responsive-menu-pro-item-14806" class="disabled menu-item menu-item-type-post_type menu-item-object-reference-platform responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/reference-platform/adas-electronic-control-unit/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">ADAS Electronic Control Unit</a></li><li id="responsive-menu-pro-item-14809" class="disabled menu-item menu-item-type-post_type menu-item-object-reference-platform responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/reference-platform/forward-facing-camera/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Front-Facing Camera</a></li><li id="responsive-menu-pro-item-14808" class=" menu-item menu-item-type-post_type menu-item-object-reference-platform responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/reference-platform/edge-ai-box/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="menu-text">Edge AI Box</span></a></li><li id="responsive-menu-pro-item-14807" class=" menu-item menu-item-type-post_type menu-item-object-reference-platform responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/reference-platform/camera/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="menu-text">Intelligent Camera</span></a></li></ul></li><li id="responsive-menu-pro-item-3919" class=" menu-item menu-item-type-post_type menu-item-object-industry menu-item-has-children responsive-menu-pro-item responsive-menu-pro-item-has-children" role="none"><a href="https://developer.hailo.ai/industry/industry-40/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Industry 4.0<div class="responsive-menu-pro-subarrow"><img alt src="/wp-content/uploads/2021/12/Vector.png" /></div></a><ul aria-label="Industry 4.0" role="menu" data-depth="3" class="responsive-menu-pro-submenu responsive-menu-pro-submenu-depth-2"><div class="responsive-menu-pro-back"><img alt src="/wp-content/uploads/2021/12/Vector-2.png" /> Back</div><li id="responsive-menu-pro-item-10641" class="disabled menu-item menu-item-type-post_type menu-item-object-reference-platform responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/reference-platform/adas-electronic-control-unit/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">ADAS Electronic Control Unit</a></li><li id="responsive-menu-pro-item-10642" class="disabled menu-item menu-item-type-post_type menu-item-object-reference-platform responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/reference-platform/forward-facing-camera/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Front-Facing Camera</a></li><li id="responsive-menu-pro-item-3930" class=" menu-item menu-item-type-post_type menu-item-object-reference-platform responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/reference-platform/edge-ai-box/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="menu-text">Edge AI Box</span></a></li><li id="responsive-menu-pro-item-3923" class=" menu-item menu-item-type-post_type menu-item-object-reference-platform responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/reference-platform/camera/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="menu-text">Intelligent Camera</span></a></li></ul></li><li id="responsive-menu-pro-item-3920" class=" menu-item menu-item-type-post_type menu-item-object-industry menu-item-has-children responsive-menu-pro-item responsive-menu-pro-item-has-children" role="none"><a href="https://developer.hailo.ai/industry/smart-city/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Smart City<div class="responsive-menu-pro-subarrow"><img alt src="/wp-content/uploads/2021/12/Vector.png" /></div></a><ul aria-label="Smart City" role="menu" data-depth="3" class="responsive-menu-pro-submenu responsive-menu-pro-submenu-depth-2"><div class="responsive-menu-pro-back"><img alt src="/wp-content/uploads/2021/12/Vector-2.png" /> Back</div><li id="responsive-menu-pro-item-10643" class="disabled menu-item menu-item-type-post_type menu-item-object-reference-platform responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/reference-platform/adas-electronic-control-unit/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">ADAS Electronic Control Unit</a></li><li id="responsive-menu-pro-item-10644" class="disabled menu-item menu-item-type-post_type menu-item-object-reference-platform responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/reference-platform/forward-facing-camera/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Front-Facing Camera</a></li><li id="responsive-menu-pro-item-3924" class=" menu-item menu-item-type-post_type menu-item-object-reference-platform responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/reference-platform/edge-ai-box/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="menu-text">Edge AI Box</span></a></li><li id="responsive-menu-pro-item-4215" class=" menu-item menu-item-type-post_type menu-item-object-reference-platform responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/reference-platform/camera/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="menu-text">Intelligent Camera</span></a></li></ul></li><li id="responsive-menu-pro-item-3916" class=" menu-item menu-item-type-post_type menu-item-object-industry menu-item-has-children responsive-menu-pro-item responsive-menu-pro-item-has-children" role="none"><a href="https://developer.hailo.ai/industry/smart-retail/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Smart Retail<div class="responsive-menu-pro-subarrow"><img alt src="/wp-content/uploads/2021/12/Vector.png" /></div></a><ul aria-label="Smart Retail" role="menu" data-depth="3" class="responsive-menu-pro-submenu responsive-menu-pro-submenu-depth-2"><div class="responsive-menu-pro-back"><img alt src="/wp-content/uploads/2021/12/Vector-2.png" /> Back</div><li id="responsive-menu-pro-item-10645" class="disabled menu-item menu-item-type-post_type menu-item-object-reference-platform responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/reference-platform/adas-electronic-control-unit/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">ADAS Electronic Control Unit</a></li><li id="responsive-menu-pro-item-10646" class="disabled menu-item menu-item-type-post_type menu-item-object-reference-platform responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/reference-platform/forward-facing-camera/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Front-Facing Camera</a></li><li id="responsive-menu-pro-item-3928" class=" menu-item menu-item-type-post_type menu-item-object-reference-platform responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/reference-platform/edge-ai-box/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="menu-text">Edge AI Box</span></a></li><li id="responsive-menu-pro-item-4214" class=" menu-item menu-item-type-post_type menu-item-object-reference-platform responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/reference-platform/camera/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="menu-text">Intelligent Camera</span></a></li></ul></li><li id="responsive-menu-pro-item-3917" class=" menu-item menu-item-type-post_type menu-item-object-industry menu-item-has-children responsive-menu-pro-item responsive-menu-pro-item-has-children" role="none"><a href="https://developer.hailo.ai/industry/smart-home/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Smart Home<div class="responsive-menu-pro-subarrow"><img alt src="/wp-content/uploads/2021/12/Vector.png" /></div></a><ul aria-label="Smart Home" role="menu" data-depth="3" class="responsive-menu-pro-submenu responsive-menu-pro-submenu-depth-2"><div class="responsive-menu-pro-back"><img alt src="/wp-content/uploads/2021/12/Vector-2.png" /> Back</div><li id="responsive-menu-pro-item-10647" class="disabled menu-item menu-item-type-post_type menu-item-object-reference-platform responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/reference-platform/adas-electronic-control-unit/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">ADAS Electronic Control Unit</a></li><li id="responsive-menu-pro-item-10648" class="disabled menu-item menu-item-type-post_type menu-item-object-reference-platform responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/reference-platform/forward-facing-camera/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Front-Facing Camera</a></li><li id="responsive-menu-pro-item-3926" class=" menu-item menu-item-type-post_type menu-item-object-reference-platform responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/reference-platform/edge-ai-box/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="menu-text">Edge AI Box</span></a></li><li id="responsive-menu-pro-item-4213" class=" menu-item menu-item-type-post_type menu-item-object-reference-platform responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/reference-platform/camera/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="menu-text">Intelligent Camera</span></a></li></ul></li></ul></li><li id="responsive-menu-pro-item-3906" class=" menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current_page_ancestor menu-item-has-children responsive-menu-pro-item responsive-menu-pro-item-current-ancestor responsive-menu-pro-item-has-children" role="none"><a href="https://developer.hailo.ai/resources/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Resources<div class="responsive-menu-pro-subarrow"><img alt src="/wp-content/uploads/2021/12/Vector.png" /></div></a><ul aria-label="Resources" role="menu" data-depth="2" class="responsive-menu-pro-submenu responsive-menu-pro-submenu-depth-1"><div class="responsive-menu-pro-back"><img alt src="/wp-content/uploads/2021/12/Vector-2.png" /> Back</div><li id="responsive-menu-pro-item-5047" class="blog-item menu-item menu-item-type-post_type menu-item-object-page responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/blog/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Blog</a></li><li id="responsive-menu-pro-item-10669" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children responsive-menu-pro-item responsive-menu-pro-item-has-children" role="none"><a href="https://developer.hailo.ai/resources/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Resource Center<div class="responsive-menu-pro-subarrow"><img alt src="/wp-content/uploads/2021/12/Vector.png" /></div></a><ul aria-label="Resource Center" role="menu" data-depth="3" class="responsive-menu-pro-submenu responsive-menu-pro-submenu-depth-2"><div class="responsive-menu-pro-back"><img alt src="/wp-content/uploads/2021/12/Vector-2.png" /> Back</div><li id="responsive-menu-pro-item-10670" class=" menu-item menu-item-type-custom menu-item-object-custom responsive-menu-pro-item" role="none"><a href="/resources/#brochures" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="menu-text">Brochures</span></a></li><li id="responsive-menu-pro-item-10671" class=" menu-item menu-item-type-custom menu-item-object-custom responsive-menu-pro-item" role="none"><a href="/resources/#papers" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="menu-text">White Papers</span></a></li><li id="responsive-menu-pro-item-10672" class=" menu-item menu-item-type-custom menu-item-object-custom responsive-menu-pro-item" role="none"><a href="/resources/#videos" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="menu-text">Videos</span></a></li><li id="responsive-menu-pro-item-10673" class=" menu-item menu-item-type-custom menu-item-object-custom responsive-menu-pro-item" role="none"><a href="/resources/#demos" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="menu-text">Demos</span></a></li><li id="responsive-menu-pro-item-16285" class=" menu-item menu-item-type-custom menu-item-object-custom responsive-menu-pro-item" role="none"><a href="/resources/#stories" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Customer Stories</a></li><li id="responsive-menu-pro-item-10674" class=" menu-item menu-item-type-custom menu-item-object-custom responsive-menu-pro-item" role="none"><a href="/resources/#webinars" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="menu-text">Webinars</span></a></li><li id="responsive-menu-pro-item-10675" class=" menu-item menu-item-type-custom menu-item-object-custom responsive-menu-pro-item" role="none"><a href="/resources/#articles" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="menu-text">Articles</span></a></li><li id="responsive-menu-pro-item-14566" class=" menu-item menu-item-type-custom menu-item-object-custom responsive-menu-pro-item" role="none"><a href="/resources/#product-briefs" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="menu-text">Product Briefs</span></a></li></ul></li><li id="responsive-menu-pro-item-14969" class=" menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children responsive-menu-pro-item responsive-menu-pro-item-current-ancestor responsive-menu-pro-item-current-parent responsive-menu-pro-item-has-children" role="none"><a href="https://developer.hailo.ai/developer-zone/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Developer Zone<div class="responsive-menu-pro-subarrow"><img alt src="/wp-content/uploads/2021/12/Vector.png" /></div></a><ul aria-label="Developer Zone" role="menu" data-depth="3" class="responsive-menu-pro-submenu responsive-menu-pro-submenu-depth-2"><div class="responsive-menu-pro-back"><img alt src="/wp-content/uploads/2021/12/Vector-2.png" /> Back</div><li id="responsive-menu-pro-item-10685" class=" menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-6635 current_page_item responsive-menu-pro-item responsive-menu-pro-current-item" role="none"><a href="https://developer.hailo.ai/developer-zone/sw-downloads/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="menu-text">SW Downloads</span></a></li><li id="responsive-menu-pro-item-10688" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/developer-zone/documentation/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="menu-text">Documentation</span></a></li><li id="responsive-menu-pro-item-10687" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/developer-zone/tutorials/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="menu-text">Tutorials</span></a></li></ul></li></ul></li><li id="responsive-menu-pro-item-7824" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children responsive-menu-pro-item responsive-menu-pro-item-has-children" role="none"><a href="https://developer.hailo.ai/company-overview/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Company<div class="responsive-menu-pro-subarrow"><img alt src="/wp-content/uploads/2021/12/Vector.png" /></div></a><ul aria-label="Company" role="menu" data-depth="2" class="responsive-menu-pro-submenu responsive-menu-pro-submenu-depth-1"><div class="responsive-menu-pro-back"><img alt src="/wp-content/uploads/2021/12/Vector-2.png" /> Back</div><li id="responsive-menu-pro-item-7826" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/company-overview/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="menu-text">About Us</span></a></li><li id="responsive-menu-pro-item-7822" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/leadership/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="menu-text">Leadership Team</span></a></li><li id="responsive-menu-pro-item-3909" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/newsroom/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="menu-text">News &#038; Events</span></a></li><li id="responsive-menu-pro-item-10713" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/contact-us/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="menu-text">Contact Us</span></a></li><li id="responsive-menu-pro-item-7825" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/company-overview/careers/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="menu-text">Careers</span></a></li></ul></li><li class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-pro-item">
+<a href="#" class="search-icon search-func"><img src="/wp-content/themes/hailo/assets/images/new/search-main.svg"></a>
+</li><li id="responsive-menu-pro-item-13464" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children responsive-menu-pro-item responsive-menu-pro-item-has-children" role="none"><a href="#" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Partners<div class="responsive-menu-pro-subarrow"><img alt src="/wp-content/uploads/2021/12/Vector.png" /></div></a><ul aria-label="Partners" role="menu" data-depth="2" class="responsive-menu-pro-submenu responsive-menu-pro-submenu-depth-1"><div class="responsive-menu-pro-back"><img alt src="/wp-content/uploads/2021/12/Vector-2.png" /> Back</div><li id="responsive-menu-pro-item-10033" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/partners/partners-ecosystem/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="menu-text">Ecosystem</span></a></li><li id="responsive-menu-pro-item-13463" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/partners/platform-selection-guide/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Platform Selection Guide</a></li></ul></li><li id="responsive-menu-pro-item-14967" class="devzone-menu-item menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-page-parent responsive-menu-pro-item" role="none"><a href="https://developer.hailo.ai/developer-zone/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Developer Zone</a></li><li id="responsive-menu-pro-item-6571" class="login-link menu-item menu-item-type-custom menu-item-object-custom responsive-menu-pro-item" role="none"><a href="#" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Sign In</a></li><li id="responsive-menu-pro-item-wpml-ls-57-en" class="menu-item wpml-ls-slot-57 wpml-ls-item wpml-ls-item-en wpml-ls-current-language wpml-ls-menu-item wpml-ls-first-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-has-children responsive-menu-pro-item responsive-menu-pro-item-has-children" role="none"><a title="English" href="https://developer.hailo.ai/developer-zone/sw-downloads/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="wpml-ls-native" lang="en">English</span><div class="responsive-menu-pro-subarrow"><img alt src="/wp-content/uploads/2021/12/Vector.png" /></div></a><ul aria-label="
+&lt;span class=&quot;wpml-ls-native&quot; lang=&quot;en&quot;&gt;English&lt;/span&gt;" role="menu" data-depth="2" class="responsive-menu-pro-submenu responsive-menu-pro-submenu-depth-1"><div class="responsive-menu-pro-back"><img alt src="/wp-content/uploads/2021/12/Vector-2.png" /> Back</div><li id="responsive-menu-pro-item-wpml-ls-57-de" class="menu-item wpml-ls-slot-57 wpml-ls-item wpml-ls-item-de wpml-ls-menu-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item responsive-menu-pro-item" role="none"><a title="Deutsch" href="https://developer.hailo.ai/de/developer-zone/sw-downloads/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="wpml-ls-native" lang="de">Deutsch</span></a></li><li id="responsive-menu-pro-item-wpml-ls-57-ja" class="menu-item wpml-ls-slot-57 wpml-ls-item wpml-ls-item-ja wpml-ls-menu-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item responsive-menu-pro-item" role="none"><a title="日本語" href="https://developer.hailo.ai/ja/developer-zone/sw-downloads/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="wpml-ls-native" lang="ja">日本語</span></a></li><li id="responsive-menu-pro-item-wpml-ls-57-zh-hans" class="menu-item wpml-ls-slot-57 wpml-ls-item wpml-ls-item-zh-hans wpml-ls-menu-item wpml-ls-last-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item responsive-menu-pro-item" role="none"><a title="简体中文" href="https://developer.hailo.ai/zh-hans/developer-zone/sw-downloads/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem"><span class="wpml-ls-native" lang="zh-hans">简体中文</span></a></li></ul></li></ul> </div>
+</div><script src="https://developer.hailo.ai/wp-content/plugins/cred-frontend-editor/vendor/toolset/toolset-common/res/lib/bootstrap4/js/bootstrap.bundle.min.js" id="toolset_bootstrap_4-js"></script>
+<script id="devzone-analytics-js-extra">
+var devzoneAnalyticsData = {"ajax_url":"https:\/\/developer.hailo.ai\/wp-admin\/admin-ajax.php","page":"6635"};
+</script>
+<script src="https://developer.hailo.ai/wp-content/themes/hailo/assets/devzone-analytics.js" id="devzone-analytics-js"></script>
+<script src="https://developer.hailo.ai/wp-includes/js/imagesloaded.min.js" id="imagesloaded-js"></script>
+<script src="https://developer.hailo.ai/wp-content/themes/oceanwp/assets/js/vendors/isotope.pkgd.min.js" id="ow-isotop-js"></script>
+<script src="https://developer.hailo.ai/wp-content/themes/oceanwp/assets/js/vendors/flickity.pkgd.min.js" id="ow-flickity-js"></script>
+<script src="https://developer.hailo.ai/wp-content/themes/oceanwp/assets/js/vendors/sidr.js" id="ow-sidr-js"></script>
+<script id="oceanwp-main-js-extra">
+var oceanwpLocalize = {"nonce":"6a41061f72","isRTL":"","menuSearchStyle":"disabled","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"right","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","ajax_url":"https:\/\/developer.hailo.ai\/wp-admin\/admin-ajax.php","oe_mc_wpnonce":"9a5a6f913e"};
+</script>
+<script src="https://developer.hailo.ai/wp-content/themes/oceanwp/assets/js/theme.vanilla.min.js" id="oceanwp-main-js"></script>
+<script src="https://developer.hailo.ai/wp-includes/js/jquery/ui/core.min.js" id="jquery-ui-core-js"></script>
+<script src="https://developer.hailo.ai/wp-includes/js/jquery/ui/datepicker.min.js" id="jquery-ui-datepicker-js"></script>
+<script id="jquery-ui-datepicker-js-after">
+jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"dd\/mm\/yy","firstDay":0,"isRTL":false});});
+</script>
+<script src="https://developer.hailo.ai/wp-includes/js/underscore.min.js" id="underscore-js"></script>
+<script src="https://developer.hailo.ai/wp-includes/js/jquery/suggest.min.js" id="suggest-js"></script>
+<script src="https://developer.hailo.ai/wp-content/plugins/cred-frontend-editor/vendor/toolset/toolset-common/toolset-forms/js/main.js" id="wptoolset-forms-js"></script>
+<script id="wptoolset-field-date-js-extra">
+var wptDateData = {"buttonImage":"https:\/\/developer.hailo.ai\/wp-content\/plugins\/cred-frontend-editor\/vendor\/toolset\/toolset-common\/toolset-forms\/images\/calendar.gif","buttonText":"Select date","dateFormat":"dd\/mm\/yy","dateFormatPhp":"d\/m\/Y","dateFormatNote":"Input format: d\/m\/Y","yearMin":"1583","yearMax":"3001","ajaxurl":"https:\/\/developer.hailo.ai\/wp-admin\/admin-ajax.php","readonly":"This is a read-only date input","readonly_image":"https:\/\/developer.hailo.ai\/wp-content\/plugins\/cred-frontend-editor\/vendor\/toolset\/toolset-common\/toolset-forms\/images\/calendar-readonly.gif","datepicker_style_url":"https:\/\/developer.hailo.ai\/wp-content\/plugins\/cred-frontend-editor\/vendor\/toolset\/toolset-common\/toolset-forms\/css\/wpt-jquery-ui\/jquery-ui-1.11.4.custom.css"};
+</script>
+<script src="https://developer.hailo.ai/wp-content/plugins/cred-frontend-editor/vendor/toolset/toolset-common/toolset-forms/js/date.js" id="wptoolset-field-date-js"></script>
+<script id="heateor_sss_sharing_js-js-before">
+function heateorSssLoadEvent(e) {var t=window.onload;if (typeof window.onload!="function") {window.onload=e}else{window.onload=function() {t();e()}}};	var heateorSssSharingAjaxUrl = 'https://developer.hailo.ai/wp-admin/admin-ajax.php', heateorSssCloseIconPath = 'https://developer.hailo.ai/wp-content/plugins/sassy-social-share/public/../images/close.png', heateorSssPluginIconPath = 'https://developer.hailo.ai/wp-content/plugins/sassy-social-share/public/../images/logo.png', heateorSssHorizontalSharingCountEnable = 0, heateorSssVerticalSharingCountEnable = 0, heateorSssSharingOffset = -10; var heateorSssMobileStickySharingEnabled = 0;var heateorSssCopyLinkMessage = "Link copied.";var heateorSssUrlCountFetched = [], heateorSssSharesText = 'Shares', heateorSssShareText = 'Share';function heateorSssPopup(e) {window.open(e,"popUpWindow","height=400,width=600,left=400,top=100,resizable,scrollbars,toolbar=0,personalbar=0,menubar=no,location=no,directories=no,status")}
+</script>
+<script src="https://developer.hailo.ai/wp-content/plugins/sassy-social-share/public/js/sassy-social-share-public.js" id="heateor_sss_sharing_js-js"></script>
+<script src="https://developer.hailo.ai/wp-content/plugins/cred-frontend-editor/vendor/toolset/toolset-common/res/js/toolset-select2-compatibility.js" id="toolset-select2-compatibility-js"></script>
+<script id="toolset_select2-js-extra">
+var toolset_select2_i18n = {"errorLoading":"The results could not be loaded","inputTooLongSingular":"Please delete %NUM% character","inputTooLongPlural":"Please delete %NUM% characters","inputTooShort":"Please enter %NUM% or more characters","loadingMore":"Loading more results...","maximumSelectedSingular":"You can only select %NUM% item","maximumSelectedPlural":"You can only select %NUM% items","noResults":"No results found","searching":"Searching..."};
+var toolset_select2_i18n = {"errorLoading":"The results could not be loaded","inputTooLongSingular":"Please delete %NUM% character","inputTooLongPlural":"Please delete %NUM% characters","inputTooShort":"Please enter %NUM% or more characters","loadingMore":"Loading more results...","maximumSelectedSingular":"You can only select %NUM% item","maximumSelectedPlural":"You can only select %NUM% items","noResults":"No results found","searching":"Searching..."};
+</script>
+<script src="https://developer.hailo.ai/wp-content/plugins/cred-frontend-editor/vendor/toolset/toolset-common/res/lib/select2/select2.js" id="toolset_select2-js"></script>
+<script src="https://developer.hailo.ai/wp-content/themes/hailo/assets/jquery-ui.js" id="jquery-slider-js"></script>
+<script src="https://developer.hailo.ai/wp-content/themes/hailo/assets/select2.full.min.js" id="select2-js-js"></script>
+<script src="https://developer.hailo.ai/wp-content/themes/hailo/assets/jquery.inputmask.js" id="inputmask-js"></script>
+<script src="https://developer.hailo.ai/wp-content/themes/hailo/assets/intro.min.js" id="intro-js-js"></script>
+<script src="https://developer.hailo.ai/wp-content/themes/hailo/assets/dev-new.js?ver=1.10" id="dev-new-js-js"></script>
+<script src="https://developer.hailo.ai/wp-content/themes/hailo/assets/main.js?ver=2.70" id="hailo-main-js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.3/highlight.min.js" id="hailo-highlight-js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlightjs-line-numbers.js/2.8.0/highlightjs-line-numbers.min.js" id="hailo-highlight-number-js"></script>
+<script src="https://developer.hailo.ai/wp-content/themes/hailo/assets/main.min.js" id="oceanwp-main2-js"></script>
+<!--[if lt IE 9]>
+<script src='https://developer.hailo.ai/wp-content/themes/oceanwp/assets/js/third/html5.min.js' id='html5shiv-js'></script>
+<![endif]-->
+<script type="text/javascript">
+//-----------------------------------------
+// Content Template: devzone-sw-downloads - start
+//-----------------------------------------
+jQuery(function($){
+	$( document ).ready(function() {
+		$(".single-industry #site-logo-inner img").attr({'src':'/wp-content/uploads/2020/07/Main_2x.svg','srcset' : '/wp-content/uploads/2020/07/Main_2x.svg'});
+    });
+});
+//-----------------------------------------
+// Content Template: devzone-sw-downloads - end
+//-----------------------------------------
+//-----------------------------------------
+// Content Template: devzone-header-simple - start
+//-----------------------------------------
+jQuery(function($){
+	$( document ).ready(function() {
+		$(".single-industry #site-logo-inner img").attr({'src':'/wp-content/uploads/2020/07/Main_2x.svg','srcset' : '/wp-content/uploads/2020/07/Main_2x.svg'});
+    });
+   $('.open-search').click(function(){
+   		$('body  .devzone_sticky_header div#search-header .searchform').slideToggle();
+   });
+});
+//-----------------------------------------
+// Content Template: devzone-header-simple - end
+//-----------------------------------------
+</script>
+
+<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/3383687.js" defer fetchpriority="low"></script>
+
+<a href="#" class="login-link fixed-login"><img loading="lazy" src="/wp-content/themes/hailo/assets/images/new/persona.svg"></a>
+<div class="modal-window-new subscribe-popup" style="display:none">
+<div class="container">
+<div class="text-window">
+<div class="pop-header">Contact us</div>
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js?pre=1" defer fetchpriority="low" onload="hsf2();"></script>
+<script>
+				function hsf2() {
+					hbspt.forms.create({
+						region: "na1",
+						portalId: "3383687",
+						formId: "b75270e6-effc-4251-8d1e-f9da487f2232",
+						onFormSubmitted : function(){
+							jQuery('.subscribe-popup .text-window').addClass('thanks-text');
+						}
+					});
+				}
+			</script>
+</div>
+</div>
+</div>
+<div class="modal-window-new video-popup" style="display:none">
+<div class="container">
+<div class="text-window">
+<iframe id="video-popup-iframe"></iframe>
+</div>
+</div>
+</div>
+<script data-cfasync="false" data-no-optimize="1" data-no-defer="1" data-pagespeed-no-defer>
+	document.addEventListener('DOMContentLoaded', (event)=>{
+			if (sessionStorage.getItem("Recurring") === "Yes") {
+				var e = document.createEvent("Event"); // wp-rocket
+				e.initEvent("wheel", !0, !0);
+				window.document.dispatchEvent(e);
+				console.info('Recurring');
+			} else {
+				sessionStorage.setItem("Recurring", "Yes")
+				console.info('First Visit');
+			}
+		}
+	)
+</script>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+			new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-MKJ2DT9');</script>
+
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MKJ2DT9"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+<script type="text/javascript">
+	var config ={
+		cookieless: true,
+	};
+	!function(n,a,t,i,f,y){n[t]=n[t]||function(){(n[t].q=n[t].q||
+		[]).push(arguments)},n[t].l=1*new Date,f=a.createElement(i),f.async=true,y=a.getElementsByTagName(i)[0]
+		,f.src='https://serve.nrich.ai/tracker/assets/tracker.js?nto='+t,y.parentNode.insertBefore(f,y)}
+	(window,document,'nt','script'),nt('load','1c53c9dc-268b-470e-8e18-b2dd2a63c5a3', config);
+</script>
+</body>
+</html>
